@@ -1,4 +1,4 @@
-# Slidier
+# Slidie
 
  ![preview](./.github/preview.png)
  
