@@ -7,7 +7,7 @@
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso
- [Clique aqui para acessar! :)]([https://1fellype.github.io/Slide/](https://slider-fellype.vercel.app/))
+ [Clique aqui para acessar! :)]([https://1fellype.github.io/Slide/](https://slider-fellype.vercel.app/)
 
 ## Tecnologias
 
